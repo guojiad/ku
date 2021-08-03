@@ -1,0 +1,10 @@
+*{margin: 0;padding: 0;}
+body{}
+ul li{list-style: none;}
+a{text-decoration: none;}
+input,button{outline: none;}
+#app .pad_right{padding-right: 0;}
+#app .bor_right{border-right: 0;}
+#app .clear_float{clear: both;}/*清除浮动*/
+#app .marg_right{margin-right: 0;}
+#app .marg_top{margin-top: 0;}
